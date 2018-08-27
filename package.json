@@ -1,0 +1,19 @@
+{
+  "name": "lernatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lerna": "lerna"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stortiar/lernatest1": "1.0.4",
+    "@stortiar/lernatest2": "1.0.1"
+  },
+  "devDependencies": {
+    "lerna": "^3.1.4"
+  }
+}
